@@ -17,3 +17,33 @@ http://brandonrose.org/clustering
 
 Stock Analysis  
 https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054  
+
+Text Summarization  
+https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/  
+https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/  
+https://stackabuse.com/text-summarization-with-nltk-in-python/  
+https://semantive.com/text-summarization-in-python/  
+https://pypi.org/project/skip-thoughts/  
+https://pypi.org/project/text-summarizer/  
+https://code.google.com/archive/p/word2vec/  
+http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/  
+https://arxiv.org/abs/1607.04606  
+https://www.nhh.no/globalassets/departments/accounting-auditing-and-law/seminar-papers/chw-manuscript-july-14-2017.pdf  
+https://www.sciencedirect.com/science/article/pii/S1532046416301514  
+https://www.lancaster.ac.uk/staff/elhaj/presentations.htm  
+https://pypi.org/project/bert-extractive-summarizer/  
+
+
+Medium  
+https://towardsdatascience.com/text-summarization-in-python-76c0a41f0dc4  
+https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70  
+https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65  
+https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1  
+https://blog.usejournal.com/nlp-for-topic-modeling-summarization-of-financial-documents-10-k-q-93070db96c1d  
+https://heartbeat.fritz.ai/extractive-text-summarization-using-neural-networks-5845804c7701  
+
+Github  
+https://github.com/mailgun/talon/blob/master/talon/signature/bruteforce.py  
+https://github.com/mishraji-8097/Extractive-Text-Summarization  
+https://github.com/edubey/text-summarizer  
+https://github.com/mzhao98/text-summarization  
