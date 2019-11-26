@@ -5,6 +5,7 @@ https://www.bbc.com/news/business/economy
 Text Analysis  
 https://www.kaggle.com/ragnar123/exploratory-data-analysis-and-baseline  
 https://www.kaggle.com/c/tensorflow2-question-answering/notebooks  
+https://www.kaggle.com/c/google-quest-challenge/notebooks  
 https://openai.com/blog/better-language-models/#sample1  
 https://rakeshchada.github.io/Sentiment-Neuron.html  
 https://towardsdatascience.com/generating-new-ideas-for-machine-learning-projects-through-machine-learning-ce3fee50ec2  
