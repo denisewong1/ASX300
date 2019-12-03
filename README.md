@@ -15,5 +15,6 @@ https://www.google.com.au/amp/s/finance.yahoo.com/amphtml/news/edited-transcript
 
 Articles  
 https://towardsdatascience.com/aifortrading-2edd6fac689d - use this and github  
+https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/  - using BERT  
 https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b  - eda  
 
