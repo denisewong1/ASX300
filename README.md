@@ -13,3 +13,7 @@ https://finance.yahoo.com/news/edited-transcript-nab-ax-earnings-100457449.html
 https://www.google.com.au/amp/s/finance.yahoo.com/amphtml/news/edited-transcript-nab-ax-earnings-100457449.html  
 
 
+Articles  
+https://towardsdatascience.com/aifortrading-2edd6fac689d - use this and github  
+https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b  - eda  
+
