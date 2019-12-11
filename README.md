@@ -18,4 +18,10 @@ https://towardsdatascience.com/aifortrading-2edd6fac689d - use this and github
 https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/  - using BERT  
 https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b  - eda  
 https://github.com/AndrewRPorter/yahoo-historical - yahoo historical  
+https://towardsdatascience.com/multi-class-text-classification-with-lstm-using-tensorflow-2-0-d88627c10a35 - github notebk  
+https://medium.com/analytics-vidhya/introduction-to-information-extraction-using-python-and-spacy-858f5d6416ca  
+https://arxiv.org/pdf/1910.08435.pdf seq2seq model multi document inputs  
 
+
+Trading  
+https://arxiv.org/pdf/1911.05892.pdf market making deep reinforcement learning  
