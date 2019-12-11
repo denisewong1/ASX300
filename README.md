@@ -21,7 +21,9 @@ https://github.com/AndrewRPorter/yahoo-historical - yahoo historical
 https://towardsdatascience.com/multi-class-text-classification-with-lstm-using-tensorflow-2-0-d88627c10a35 - github notebk  
 https://medium.com/analytics-vidhya/introduction-to-information-extraction-using-python-and-spacy-858f5d6416ca  
 https://arxiv.org/pdf/1910.08435.pdf seq2seq model multi document inputs  
+https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-processing-294b58d35514  topic modelling  
 
 
 Trading  
 https://arxiv.org/pdf/1911.05892.pdf market making deep reinforcement learning  
+http://webcache.googleusercontent.com/search?q=cache:http://isomorphisms.sdf.org/maxdama.pdf  automated trading  
