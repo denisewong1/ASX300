@@ -12,6 +12,10 @@ https://en.wikipedia.org/wiki/AMP_Limited with link provided from yahoo finance 
 https://finance.yahoo.com/news/edited-transcript-nab-ax-earnings-100457449.html
 https://www.google.com.au/amp/s/finance.yahoo.com/amphtml/news/edited-transcript-nab-ax-earnings-100457449.html  
 
+NLTK  
+https://www2.cs.duke.edu/courses/spring14/compsci290/assignments/lab02.html  
+https://nlpforhackers.io/recipe-text-clustering/  
+http://brandonrose.org/clustering  
 
 Articles  
 https://towardsdatascience.com/aifortrading-2edd6fac689d - use this and github  
