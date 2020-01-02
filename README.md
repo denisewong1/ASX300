@@ -16,6 +16,7 @@ NLTK
 https://www2.cs.duke.edu/courses/spring14/compsci290/assignments/lab02.html  
 https://nlpforhackers.io/recipe-text-clustering/  
 http://brandonrose.org/clustering  
+https://github.com/microsoft/nlp-recipes/  
 
 Articles  
 https://towardsdatascience.com/aifortrading-2edd6fac689d - use this and github  
