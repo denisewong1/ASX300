@@ -27,7 +27,8 @@ https://towardsdatascience.com/multi-class-text-classification-with-lstm-using-t
 https://medium.com/analytics-vidhya/introduction-to-information-extraction-using-python-and-spacy-858f5d6416ca  
 https://arxiv.org/pdf/1910.08435.pdf seq2seq model multi document inputs  
 https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-processing-294b58d35514  topic modelling  
-
+https://towardsdatascience.com/etf2vec-my-story-about-trying-to-extact-narrative-from-etf-holdings-5a5f355ce3c4  etf  
+https://medium.com/analytics-vidhya/stock-trend-prediction-with-technical-indicators-feature-engineering-and-python-code-1fa54d5806ba  
 
 Trading  
 https://arxiv.org/pdf/1911.05892.pdf market making deep reinforcement learning  
