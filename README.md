@@ -33,6 +33,7 @@ Trading
 https://arxiv.org/pdf/1911.05892.pdf market making deep reinforcement learning  
 http://webcache.googleusercontent.com/search?q=cache:http://isomorphisms.sdf.org/maxdama.pdf  automated trading  
 
+
 Function Libraries
 https://www.reddit.com/r/algotrading/comments/ejveio/which_python_library_best_for_getting_technical/?utm_source=share&utm_medium=ios_app&utm_name=iossmf  
 https://github.com/mrjbq7/ta-lib  
@@ -40,6 +41,7 @@ https://github.com/irvineAlgotrading/marketcsvbuilder/blob/master/csvbuilder.ipy
 https://www.backtrader.com/  
 https://github.com/cirla/tulipy  
 https://www.alphavantage.co/documentation/#technical-indicators  
+https://www.tradingview.com/script/f32HlgbI/  buy sell volume  
 
 
 
