@@ -43,6 +43,7 @@ https://www.backtrader.com/
 https://github.com/cirla/tulipy  
 https://www.alphavantage.co/documentation/#technical-indicators  
 https://www.tradingview.com/script/f32HlgbI/  buy sell volume  
+https://codingandfun.com/category/python-for-finance-data-science/  
 
 
 
