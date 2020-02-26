@@ -11,6 +11,7 @@ https://au.finance.yahoo.com/quote/NAB.AX/?p=NAB.AX
 https://en.wikipedia.org/wiki/AMP_Limited with link provided from yahoo finance page  
 https://finance.yahoo.com/news/edited-transcript-nab-ax-earnings-100457449.html
 https://www.google.com.au/amp/s/finance.yahoo.com/amphtml/news/edited-transcript-nab-ax-earnings-100457449.html  
+https://github.com/kotartemiy/newscatcher - scrape news from 3000 websites  
 
 NLTK  
 https://www2.cs.duke.edu/courses/spring14/compsci290/assignments/lab02.html  
