@@ -18,6 +18,8 @@ https://www2.cs.duke.edu/courses/spring14/compsci290/assignments/lab02.html
 https://nlpforhackers.io/recipe-text-clustering/  
 http://brandonrose.org/clustering  
 https://github.com/microsoft/nlp-recipes/  
+https://medium.com/@mateusz.jurewicz/machine-learning-natural-language-preprocessing-with-python-5922d79d9ee2  
+https://medium.com/@CryptoEthan/a-framework-for-sentiment-analysis-f927299eab88  
 
 Articles  
 https://towardsdatascience.com/aifortrading-2edd6fac689d - use this and github  
@@ -34,6 +36,7 @@ https://medium.com/analytics-vidhya/stock-trend-prediction-with-technical-indica
 Trading  
 https://arxiv.org/pdf/1911.05892.pdf market making deep reinforcement learning  
 http://webcache.googleusercontent.com/search?q=cache:http://isomorphisms.sdf.org/maxdama.pdf  automated trading  
+https://www.livewiremarkets.com/wires/how-much-money-should-i-lose drawdowns  
 
 
 Function Libraries
