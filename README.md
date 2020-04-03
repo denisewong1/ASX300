@@ -31,6 +31,7 @@ https://medium.com/analytics-vidhya/introduction-to-information-extraction-using
 https://arxiv.org/pdf/1910.08435.pdf seq2seq model multi document inputs  
 https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-processing-294b58d35514  topic modelling  
 https://towardsdatascience.com/etf2vec-my-story-about-trying-to-extact-narrative-from-etf-holdings-5a5f355ce3c4  etf  
+https://towardsdatascience.com/text-mining-and-classification-on-earnings-call-transcripts-e63d9856d7d8 earnings call transcripts  
 https://medium.com/analytics-vidhya/stock-trend-prediction-with-technical-indicators-feature-engineering-and-python-code-1fa54d5806ba  
 
 Trading  
