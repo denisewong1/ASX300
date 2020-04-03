@@ -58,3 +58,8 @@ https://kite.com/python/examples/3986/difflib-generate-a-diff-between-two-text-f
 https://stackoverflow.com/questions/19120489/compare-two-files-report-difference-in-python  
 https://stackoverflow.com/questions/46598397/python-how-to-compare-two-files-and-output-only-the-different-lines-in-a-third  
 https://stackoverflow.com/questions/8897593/how-to-compute-the-similarity-between-two-text-documents  
+https://github.com/neulab/Text-Summarization-Papers?utm_campaign=Data_Elixir&utm_source=Data_Elixir_279  
+
+Build a dashboard  
+https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/  
+https://www.datacamp.com/community/tutorials/learn-build-dash-python  
