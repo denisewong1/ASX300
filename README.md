@@ -49,9 +49,12 @@ https://www.alphavantage.co/documentation/#technical-indicators
 https://www.tradingview.com/script/f32HlgbI/  buy sell volume  
 https://codingandfun.com/category/python-for-finance-data-science/  
 
-
-
-
-
-
-
+Comparing two texts for similarity & differences  
+https://superuser.com/questions/347560/is-there-a-tool-to-measure-file-difference-percentage  
+https://www.cs.ru.nl/bachelors-theses/2018/Aucke_Bos___4591496___Visulizing_differences_between_HTML_documents.pdf  
+https://neil.fraser.name/writing/diff/  
+https://www.daniweb.com/programming/software-development/threads/211544/find-matches-in-two-text-files-output-them-into-a-third-text-file  
+https://kite.com/python/examples/3986/difflib-generate-a-diff-between-two-text-files  
+https://stackoverflow.com/questions/19120489/compare-two-files-report-difference-in-python  
+https://stackoverflow.com/questions/46598397/python-how-to-compare-two-files-and-output-only-the-different-lines-in-a-third  
+https://stackoverflow.com/questions/8897593/how-to-compute-the-similarity-between-two-text-documents  
