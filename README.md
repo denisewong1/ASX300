@@ -33,6 +33,7 @@ https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-proce
 https://towardsdatascience.com/etf2vec-my-story-about-trying-to-extact-narrative-from-etf-holdings-5a5f355ce3c4  etf  
 https://towardsdatascience.com/text-mining-and-classification-on-earnings-call-transcripts-e63d9856d7d8 earnings call transcripts  
 https://medium.com/analytics-vidhya/stock-trend-prediction-with-technical-indicators-feature-engineering-and-python-code-1fa54d5806ba  
+https://towardsdatascience.com/twitter-sentiment-analysis-using-fasttext-9ccd04465597 twitter sentiment analysis nltk  
 
 Trading  
 https://arxiv.org/pdf/1911.05892.pdf market making deep reinforcement learning  
