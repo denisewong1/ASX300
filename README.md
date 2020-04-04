@@ -65,3 +65,7 @@ https://github.com/neulab/Text-Summarization-Papers?utm_campaign=Data_Elixir&utm
 Build a dashboard  
 https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/  
 https://www.datacamp.com/community/tutorials/learn-build-dash-python  
+
+Create a corpus
+https://stackoverflow.com/questions/4951751/creating-a-new-corpus-with-nltk  
+
