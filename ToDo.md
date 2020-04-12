@@ -3,12 +3,18 @@ https://www.reuters.com/finance
 https://www.bbc.com/news/business/economy  
 
 Text Analysis  
+http://www.nltk.org/book/  
+https://neil.fraser.name/writing/diff/  
+https://automatetheboringstuff.com/chapter11/  
 https://www.kaggle.com/ragnar123/exploratory-data-analysis-and-baseline  
 https://www.kaggle.com/c/tensorflow2-question-answering/notebooks  
 https://www.kaggle.com/c/google-quest-challenge/notebooks  
 https://openai.com/blog/better-language-models/#sample1  
+https://intellica.ai/blog/blog.html?comparison-of-different-word-embeddings-on-text-similarity-a-use-case-in-nlp-e83e08469c1c  
 https://rakeshchada.github.io/Sentiment-Neuron.html  
+https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/  
 https://towardsdatascience.com/generating-new-ideas-for-machine-learning-projects-through-machine-learning-ce3fee50ec2  
+https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/  
 https://towardsdatascience.com/machine-learning-versus-the-news-3b5b479d8e6a  
 https://github.com/jameslucasbaker/Capstone/blob/master/JamesBakerCapstonePartOne.ipynb  
 https://github.com/Florian455/Astibot  
