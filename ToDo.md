@@ -18,6 +18,7 @@ http://brandonrose.org/clustering
 Stock Analysis  
 https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054  
 https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock/blob/master/Descriptive_Statistics.ipynb
+https://github.com/microsoft/forecasting?utm_campaign=Data_Elixir&utm_source=Data_Elixir_280
 
 Text Summarization  
 https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/  
