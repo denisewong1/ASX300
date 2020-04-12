@@ -6,7 +6,6 @@ Text Analysis
 http://www.nltk.org/book/  
 https://neil.fraser.name/writing/diff/  
 https://automatetheboringstuff.com/chapter11/  
-https://www.kaggle.com/ragnar123/exploratory-data-analysis-and-baseline  
 https://www.kaggle.com/c/tensorflow2-question-answering/notebooks  
 https://www.kaggle.com/c/google-quest-challenge/notebooks  
 https://openai.com/blog/better-language-models/#sample1  
