@@ -13,7 +13,6 @@ https://github.com/kotartemiy/newscatcher - scrape news from 3000 websites
 NLTK  
 https://www2.cs.duke.edu/courses/spring14/compsci290/assignments/lab02.html  
 https://nlpforhackers.io/recipe-text-clustering/  
-http://brandonrose.org/clustering  
 https://github.com/microsoft/nlp-recipes/  
 https://medium.com/@mateusz.jurewicz/machine-learning-natural-language-preprocessing-with-python-5922d79d9ee2  
 https://medium.com/@CryptoEthan/a-framework-for-sentiment-analysis-f927299eab88  
