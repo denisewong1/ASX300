@@ -32,7 +32,6 @@ https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-tex
 https://stackabuse.com/text-summarization-with-nltk-in-python/  
 https://semantive.com/text-summarization-in-python/  
 https://pypi.org/project/skip-thoughts/  
-https://pypi.org/project/text-summarizer/  
 https://code.google.com/archive/p/word2vec/  
 http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/  
 https://arxiv.org/abs/1607.04606  
