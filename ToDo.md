@@ -41,6 +41,21 @@ https://www.lancaster.ac.uk/staff/elhaj/presentations.htm
 https://pypi.org/project/bert-extractive-summarizer/  
 
 
+Text Abstraction  
+https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/  
+https://github.com/icoxfog417/awesome-text-summarization  
+https://semantive.com/blog/text-summarization-in-python/  
+https://paperswithcode.com/task/abstractive-text-summarization  
+https://medium.com/intel-student-ambassadors/diving-into-abstractive-text-summarization-part-1-e8570d370021  
+https://medium.com/@umerfarooq_26378/text-summarization-in-python-76c0a41f0dc4  
+https://github.com/topics/abstractive-summarization  
+https://github.com/topics/abstractive-text-summarization  
+https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/  
+https://hackernoon.com/abstractive-text-summarization-tutorial-2-text-representation-made-very-easy-ef4511a1a46  
+https://pypi.org/project/sumbert/  
+https://pypi.org/project/PyTLDR/  
+
+
 Medium  
 https://towardsdatascience.com/text-summarization-in-python-76c0a41f0dc4  
 https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70  
