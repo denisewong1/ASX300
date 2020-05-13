@@ -2,7 +2,13 @@ News
 https://www.reuters.com/finance  
 https://www.bbc.com/news/business/economy  
 
+pdf converter  
+https://github.com/kermitt2/grobid-client-python/blob/master/Readme.md  
+https://github.com/IBM/science-result-extractor  
+
+
 Text Analysis  
+https://github.com/sebastianruder/NLP-progress  
 http://www.nltk.org/book/  
 https://neil.fraser.name/writing/diff/  
 https://automatetheboringstuff.com/chapter11/  
