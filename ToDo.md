@@ -71,3 +71,10 @@ https://github.com/mailgun/talon/blob/master/talon/signature/bruteforce.py
 https://github.com/mishraji-8097/Extractive-Text-Summarization  
 https://github.com/edubey/text-summarizer  
 https://github.com/mzhao98/text-summarization  
+
+
+Examples  
+https://arxiv.org/pdf/2004.14356.pdf  
+https://github.com/paperswithcode/axcell  
+
+
