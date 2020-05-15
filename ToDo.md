@@ -67,6 +67,7 @@ https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65
 https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1  
 https://blog.usejournal.com/nlp-for-topic-modeling-summarization-of-financial-documents-10-k-q-93070db96c1d  
 https://heartbeat.fritz.ai/extractive-text-summarization-using-neural-networks-5845804c7701  
+https://towardsdatascience.com/twitter-sentiment-analysis-based-on-news-topics-during-covid-19-c3d738005b55  
 
 Github  
 https://github.com/mailgun/talon/blob/master/talon/signature/bruteforce.py  
