@@ -78,6 +78,7 @@ https://github.com/mailgun/talon/blob/master/talon/signature/bruteforce.py
 https://github.com/mishraji-8097/Extractive-Text-Summarization  
 https://github.com/edubey/text-summarizer  
 https://github.com/mzhao98/text-summarization  
+https://github.com/MauricioLetelier/Trading_And_Visualizations  
 
 
 Examples  
