@@ -5,6 +5,7 @@ https://github.com/IBM/science-result-extractor
 
 Text Analysis  
 https://textblob.readthedocs.io/en/dev/  
+http://mallet.cs.umass.edu/topics.php  
 https://github.com/sebastianruder/NLP-progress  
 http://www.nltk.org/book/  
 https://neil.fraser.name/writing/diff/  
