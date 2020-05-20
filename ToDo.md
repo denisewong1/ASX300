@@ -5,6 +5,16 @@ pdf converter
 https://github.com/kermitt2/grobid-client-python/blob/master/Readme.md  
 https://github.com/IBM/science-result-extractor  
 
+extract data from form   
+https://www.blog.pythonlibrary.org/2018/05/03/exporting-data-from-pdfs-with-python/  
+https://www.pdftron.com/documentation/samples/py/FDFTest  
+https://stackoverflow.com/questions/56446639/how-to-read-data-from-a-pdf-form-using-python  
+https://stackoverflow.com/questions/41175265/pdfminer-doesnt-extract-data-from-filled-out-pdf-form  
+https://stackoverflow.com/questions/46111238/how-to-access-data-from-pdf-forms-with-python  
+https://stackoverflow.com/questions/3984003/how-to-extract-pdf-fields-from-a-filled-out-form-in-python  
+https://pypi.org/project/pdfformread/  
+https://mc.ai/how-to-extract-data-from-pdf-forms-using-python/  
+
 
 Text Analysis  
 https://textblob.readthedocs.io/en/dev/  
