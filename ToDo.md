@@ -1,10 +1,6 @@
 word cloud with python stylecloud  
 https://towardsdatascience.com/generate-modern-stylish-wordcloud-with-stylecloud-9cbb059696d2  
 
-pdf converter  
-https://github.com/kermitt2/grobid-client-python/blob/master/Readme.md  
-https://github.com/IBM/science-result-extractor  
-
 
 Text Analysis  
 https://textblob.readthedocs.io/en/dev/  
