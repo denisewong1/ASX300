@@ -49,6 +49,8 @@ https://www.sciencedirect.com/science/article/pii/S1532046416301514
 https://www.lancaster.ac.uk/staff/elhaj/presentations.htm  
 https://pypi.org/project/bert-extractive-summarizer/  
 
+Streaks  
+https://joshdevlin.com/blog/calculate-streaks-in-pandas/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_285  
 
 Text Abstraction  
 https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/  
