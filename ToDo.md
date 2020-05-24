@@ -3,7 +3,7 @@ https://www.marketindex.com.au/asx-etfs
 
 word cloud with python stylecloud  
 https://towardsdatascience.com/generate-modern-stylish-wordcloud-with-stylecloud-9cbb059696d2  
-
+https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html#sphx-glr-auto-examples-text-plot-document-clustering-py  
 
 Text Analysis  
 https://textblob.readthedocs.io/en/dev/  
