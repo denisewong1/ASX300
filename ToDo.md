@@ -24,6 +24,7 @@ https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-proce
 http://brandonrose.org/clustering  
 
 Stock Analysis  
+https://stockbeep.com/breakout-stocks  
 https://towardsdatascience.com/probabilistic-machine-learning-approach-to-trading-macd-business-understanding-6b81f465aef6  
 https://github.com/MauricioLetelier/Trading_And_Visualizations  
 https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054  
