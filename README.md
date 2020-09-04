@@ -65,3 +65,5 @@ https://www.datacamp.com/community/tutorials/learn-build-dash-python
 Create a corpus
 https://stackoverflow.com/questions/4951751/creating-a-new-corpus-with-nltk  
 
+Visualisation  
+https://infovis.fh-potsdam.de/tutorials/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_301  
