@@ -73,4 +73,11 @@ System Development
 http://newsletter.vantharp.com/public/viewmessage/html/10920/5t0gun8uetr8gecsryxqm6iyv81dc/18e98300cd98ce7c47c9c7681e35e473  
 https://gitlab.com/jphwang/online_articles/-/commit/77d6f06f6c6b5ea7de26a15a438a6503b250b3ed  
 
+Python Apps  
+https://www.intelligencerefinery.io/post/making-python-apps/  
+https://www.kamwithk.com/machine-learning-energy-demand-prediction-project-part-1-data-cleaning  
+https://hashnode.com/?source=blog-footer  
+https://github.com/KamWithK/AllocatePlusPlus  
+
+
 
