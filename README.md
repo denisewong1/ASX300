@@ -1,6 +1,8 @@
 # ASX300  
 ASX300 Data  
 
+Insider Trading : https://www.livewiremarkets.com/wires/why-it-pays-to-follow-the-insiders  
+
 Sources of Stock News   
 https://www.morningstar.com/stocks/xasx/nab/news  
 https://www.google.com/search?q=ASX:+AMP&stick=H4sIAAAAAAAAAONgecRoxi3w8sc9YSndSWtOXmNU5-IKzsgvd80rySypFJLkYoOy-KV4ubj10_UNU8pMTCvSTHgWsXI4BkdYKTj6BgAAApAmC0YAAAA&source=lnms&tbm=fin&sa=X&ved=0ahUKEwi3h9bMz8LjAhUU_XMBHe97D9cQ_AUIESgB&biw=1455&bih=717#scso=_cpMyXcTyAaO38QPdlaLQBw4:0  
