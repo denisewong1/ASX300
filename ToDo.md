@@ -25,6 +25,11 @@ https://github.com/jameslucasbaker/Capstone/blob/master/JamesBakerCapstonePartOn
 https://github.com/Florian455/Astibot  
 https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-processing-294b58d35514  
 http://brandonrose.org/clustering  
+https://towardsdatascience.com/an-extensible-interactive-visualization-framework-to-measure-gender-bias-in-the-news-56e33ba1655c  
+https://gendergaptracker.research.sfu.ca/apps/topicmodel  
+https://towardsdatascience.com/the-best-document-similarity-algorithm-in-2020-a-beginners-guide-a01b9ef8cf05  
+https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089  
+https://www.kaggle.com/c/contradictory-my-dear-watson/notebooks  
 
 Stock Analysis  
 https://stockbeep.com/breakout-stocks  
@@ -84,10 +89,16 @@ https://github.com/mishraji-8097/Extractive-Text-Summarization
 https://github.com/edubey/text-summarizer  
 https://github.com/mzhao98/text-summarization  
 https://github.com/MauricioLetelier/Trading_And_Visualizations  
+https://github.com/neuml/txtai  
+https://github.com/rahulissar/ai-supply-chain  
 
 
 Examples  
 https://arxiv.org/pdf/2004.14356.pdf  
 https://github.com/paperswithcode/axcell  
+https://www.coursera.org/projects/data-science-streamlit-python?utm_medium=email&utm_source=marketing&utm_campaign=gQjp8KEdEeqxW2EAYUwV1Q  
+https://www.coursera.org/projects/anomaly-detection-time-series-keras?utm_medium=email&utm_source=marketing&utm_campaign=gQjp8KEdEeqxW2EAYUwV1Q  
+http://www.mlfactor.com/  
+
 
 
