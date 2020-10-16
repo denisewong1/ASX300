@@ -59,6 +59,7 @@ https://stackoverflow.com/questions/19120489/compare-two-files-report-difference
 https://stackoverflow.com/questions/46598397/python-how-to-compare-two-files-and-output-only-the-different-lines-in-a-third  
 https://stackoverflow.com/questions/8897593/how-to-compute-the-similarity-between-two-text-documents  
 https://github.com/neulab/Text-Summarization-Papers?utm_campaign=Data_Elixir&utm_source=Data_Elixir_279  
+https://towardsdatascience.com/top2vec-new-way-of-topic-modelling-bea165eeac4a  
 
 Build a dashboard  
 https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/  
