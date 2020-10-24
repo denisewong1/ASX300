@@ -101,5 +101,13 @@ https://www.coursera.org/projects/data-science-streamlit-python?utm_medium=email
 https://www.coursera.org/projects/anomaly-detection-time-series-keras?utm_medium=email&utm_source=marketing&utm_campaign=gQjp8KEdEeqxW2EAYUwV1Q  
 http://www.mlfactor.com/  
 
+Sentiment index with Vader and Bert and Twitter  
+http://www.alternative-analytics.eu/dashboard/sentiment.html  
+http://alternative-analytics.eu/dashboard/documents/ReadingGuide.pdf  
+https://github.com/ProsusAI/finBERT  
+https://imgur.com/0a5QTux  
+https://rapidapi.com/GreenFactorLabs/api/financial-sentiment-analysis/endpoints  
+
+
 
 
