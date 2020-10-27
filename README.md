@@ -72,6 +72,7 @@ https://stackoverflow.com/questions/4951751/creating-a-new-corpus-with-nltk
 Visualisation  
 https://infovis.fh-potsdam.de/tutorials/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_301  
 https://github.com/Priyanka1994/LoanPredictionAV/blob/master/LoanPredictionAV.ipynb  code for charting  
+http://rstudio-pubs-static.s3.amazonaws.com/5795_e6e6411731bb4f1b9cc7eb49499c2082.html  
 
 System Development  
 http://newsletter.vantharp.com/public/viewmessage/html/10920/5t0gun8uetr8gecsryxqm6iyv81dc/18e98300cd98ce7c47c9c7681e35e473  
