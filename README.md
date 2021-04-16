@@ -85,4 +85,17 @@ https://hashnode.com/?source=blog-footer
 https://github.com/KamWithK/AllocatePlusPlus  
 
 
+Latest 2021  
+https://towardsdatascience.com/run-machine-learning-workflows-to-transform-data-and-build-ai-powered-text-indices-with-txtai-43d769b566a7  
+https://towardsdatascience.com/deep-learning-techniques-for-text-classification-78d9dc40bf7c  
+https://towardsdatascience.com/how-do-data-scientists-use-twitter-let-us-count-the-ways-50494e2a95c8  
+https://towardsdatascience.com/compare-popular-automl-frameworks-on-10-tabular-kaggle-competitions-9b1420e8942d  
+https://towardsdatascience.com/quora-question-pairs-similarity-tackling-a-real-life-nlp-problem-ab55c5da2e84  
+https://towardsdatascience.com/improving-virtual-assistants-performance-using-semantic-search-and-sentence-transformers-9d654b0bb9e6  
+https://medium.com/prosus-ai-tech-blog/finbert-financial-sentiment-analysis-with-bert-b277a3607101  
+https://tatheerhussainmir.medium.com/nlp-lecture-series-from-basic-to-advance-level-part-1-fe1ee2b87dd4  
+https://medium.com/prosus-ai-tech-blog/unsupervised-attribute-extraction-for-online-listings-41baa5d2270e  
+https://pub.towardsai.net/tweet-topic-modeling-part-3-using-short-text-topic-modeling-on-tweets-bc969a827fef  
+https://ai.plainenglish.io/sentiment-analysis-of-a-youtube-video-part-3-b648d19bd666  
+https://github.com/josephmisiti/awesome-machine-learning  
 
