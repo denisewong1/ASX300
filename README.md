@@ -1,6 +1,9 @@
 # ASX300  
 ASX300 Data  
 
+Price history for ETF  
+https://medium.datadriveninvestor.com/scraping-wikipedia-for-etf-names-3278e4557944  
+
 Insider Trading : https://www.livewiremarkets.com/wires/why-it-pays-to-follow-the-insiders  
 
 Sources of Stock News   
@@ -49,6 +52,7 @@ https://github.com/cirla/tulipy
 https://www.alphavantage.co/documentation/#technical-indicators  
 https://www.tradingview.com/script/f32HlgbI/  buy sell volume  
 https://codingandfun.com/category/python-for-finance-data-science/  
+https://medium.com/geekculture/imbalanced-dataset-machine-learning-model-from-end-to-end-implementation-tensorflow-2-2-c48b5bc2eabc  tensorflow  
 
 Comparing two texts for similarity & differences  
 https://superuser.com/questions/347560/is-there-a-tool-to-measure-file-difference-percentage  
@@ -61,6 +65,8 @@ https://stackoverflow.com/questions/46598397/python-how-to-compare-two-files-and
 https://stackoverflow.com/questions/8897593/how-to-compute-the-similarity-between-two-text-documents  
 https://github.com/neulab/Text-Summarization-Papers?utm_campaign=Data_Elixir&utm_source=Data_Elixir_279  
 https://towardsdatascience.com/top2vec-new-way-of-topic-modelling-bea165eeac4a  
+https://medium.com/analytics-vidhya/introduction-to-exploratory-data-analysis-for-image-text-based-data-1179e194df3f  
+
 
 Build a dashboard  
 https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/  
