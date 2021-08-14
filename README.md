@@ -1,6 +1,10 @@
 # ASX300  
 ASX300 Data  
 
+Tesseract & OCR
+https://towardsdatascience.com/implementing-optical-character-recognition-ocr-using-pytesseract-5f42cf62ddcc
+https://towardsdatascience.com/multi-page-document-classification-using-machine-learning-and-nlp-ba6151405c03
+
 Price history for ETF  
 https://medium.datadriveninvestor.com/scraping-wikipedia-for-etf-names-3278e4557944  
 
