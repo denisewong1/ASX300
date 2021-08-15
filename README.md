@@ -1,9 +1,9 @@
 # ASX300  
 ASX300 Data  
 
-Tesseract & OCR
-https://towardsdatascience.com/implementing-optical-character-recognition-ocr-using-pytesseract-5f42cf62ddcc
-https://towardsdatascience.com/multi-page-document-classification-using-machine-learning-and-nlp-ba6151405c03
+Tesseract & OCR  
+https://towardsdatascience.com/implementing-optical-character-recognition-ocr-using-pytesseract-5f42cf62ddcc  
+https://towardsdatascience.com/multi-page-document-classification-using-machine-learning-and-nlp-ba6151405c03  
 
 Price history for ETF  
 https://medium.datadriveninvestor.com/scraping-wikipedia-for-etf-names-3278e4557944  
@@ -26,6 +26,11 @@ https://nlpforhackers.io/recipe-text-clustering/
 https://github.com/microsoft/nlp-recipes/  
 https://medium.com/@mateusz.jurewicz/machine-learning-natural-language-preprocessing-with-python-5922d79d9ee2  
 https://medium.com/@CryptoEthan/a-framework-for-sentiment-analysis-f927299eab88  
+https://medium.com/innerdoc/80-natural-language-processing-tasks-described-c777bc4974b3  
+https://medium.com/neo4j/turn-a-harry-potter-book-into-a-knowledge-graph-ffc1c45afcc8  
+https://ztalib.medium.com/the-future-of-real-world-chatbots-db6b054ad157  
+https://medium.com/@ODSC/top-14-nlp-job-ready-skills-for-2021-84325af56636  
+http://web.stanford.edu/class/cs224n/  
 
 Articles  
 https://towardsdatascience.com/aifortrading-2edd6fac689d - use this and github  
